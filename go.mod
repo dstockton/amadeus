@@ -1,4 +1,4 @@
-module github.com/fakovacic/amadeus
+module github.com/dstockton/amadeus
 
 go 1.14
 
